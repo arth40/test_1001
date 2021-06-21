@@ -1,0 +1,12 @@
+.searcharea{
+    position: relative;
+    width: 100%;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+}
+
+.searchbox{
+    width: 30%;
+    height: 2vw;
+    margin-left: 35%;
+}
